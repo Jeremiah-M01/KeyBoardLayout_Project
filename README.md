@@ -6,3 +6,4 @@
 ### Visualization:
 The image below is the main graph representing the keyboard layout we implemented
 
+![](images/keyboardLayoutGraph.jpg)
